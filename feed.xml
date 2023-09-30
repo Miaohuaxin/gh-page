@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>艾姆德设计</title>
+    <link href="https://miaohuaxin.github.io/gh-page/feed.xml" rel="self" />
+    <link href="https://miaohuaxin.github.io/gh-page" />
+    <updated>2023-09-30T07:50:52+08:00</updated>
+    <author>
+        <name>Elliot.苗</name>
+    </author>
+    <id>https://miaohuaxin.github.io/gh-page</id>
+
+    <entry>
+        <title>人机交互</title>
+        <author>
+            <name>Elliot.苗</name>
+        </author>
+        <link href="https://miaohuaxin.github.io/gh-page/ren-ji-jiao-hu.html"/>
+        <id>https://miaohuaxin.github.io/gh-page/ren-ji-jiao-hu.html</id>
+            <category term="人机交互"/>
+
+        <updated>2023-09-30T07:50:52+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://miaohuaxin.github.io/gh-page/media/posts/6/gallery/08810a056c187b57f61c4522e875e6d9.png" data-size="1000x2069">
+        <img loading="lazy" src="https://miaohuaxin.github.io/gh-page/media/posts/6/gallery/08810a056c187b57f61c4522e875e6d9-thumbnail.png" height="1589" width="768" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://miaohuaxin.github.io/gh-page/media/posts/6/Wei-Biao-Ti-1.gif" height="1333" width="966" alt="" >
+      
+    </figure>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>APP UI设计</title>
+        <author>
+            <name>Elliot.苗</name>
+        </author>
+        <link href="https://miaohuaxin.github.io/gh-page/app-uishe-ji.html"/>
+        <id>https://miaohuaxin.github.io/gh-page/app-uishe-ji.html</id>
+        <media:content url="https://miaohuaxin.github.io/gh-page/media/posts/5/WechatIMG2146-2.png" medium="image" />
+            <category term="APP UI设计"/>
+
+        <updated>2023-09-30T07:46:58+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://miaohuaxin.github.io/gh-page/media/posts/5/WechatIMG2146-2.png" class="type:primaryImage" alt="" /></p>
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://miaohuaxin.github.io/gh-page/media/posts/5/WechatIMG2146.png" height="856" width="1532" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://miaohuaxin.github.io/gh-page/media/posts/5/responsive/WechatIMG2146-xs.png 384w ,https://miaohuaxin.github.io/gh-page/media/posts/5/responsive/WechatIMG2146-sm.png 600w ,https://miaohuaxin.github.io/gh-page/media/posts/5/responsive/WechatIMG2146-md.png 768w ,https://miaohuaxin.github.io/gh-page/media/posts/5/responsive/WechatIMG2146-lg.png 1200w ,https://miaohuaxin.github.io/gh-page/media/posts/5/responsive/WechatIMG2146-xl.png 1600w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>网站设计制作</title>
+        <author>
+            <name>Elliot.苗</name>
+        </author>
+        <link href="https://miaohuaxin.github.io/gh-page/wang-zhan-she-ji-zhi-zuo.html"/>
+        <id>https://miaohuaxin.github.io/gh-page/wang-zhan-she-ji-zhi-zuo.html</id>
+        <media:content url="https://miaohuaxin.github.io/gh-page/media/posts/4/WechatIMG2146-2.png" medium="image" />
+            <category term="网站设计制作"/>
+
+        <updated>2023-09-30T07:47:06+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://miaohuaxin.github.io/gh-page/media/posts/4/WechatIMG2146-2.png" class="type:primaryImage" alt="" /></p>
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://miaohuaxin.github.io/gh-page/media/posts/4/WechatIMG2146.png" height="856" width="1532" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://miaohuaxin.github.io/gh-page/media/posts/4/responsive/WechatIMG2146-xs.png 384w ,https://miaohuaxin.github.io/gh-page/media/posts/4/responsive/WechatIMG2146-sm.png 600w ,https://miaohuaxin.github.io/gh-page/media/posts/4/responsive/WechatIMG2146-md.png 768w ,https://miaohuaxin.github.io/gh-page/media/posts/4/responsive/WechatIMG2146-lg.png 1200w ,https://miaohuaxin.github.io/gh-page/media/posts/4/responsive/WechatIMG2146-xl.png 1600w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>包装印刷设计</title>
+        <author>
+            <name>Elliot.苗</name>
+        </author>
+        <link href="https://miaohuaxin.github.io/gh-page/bao-zhuang-yin-shua-she-ji.html"/>
+        <id>https://miaohuaxin.github.io/gh-page/bao-zhuang-yin-shua-she-ji.html</id>
+        <media:content url="https://miaohuaxin.github.io/gh-page/media/posts/3/WechatIMG2146-2.png" medium="image" />
+            <category term="包装印刷设计"/>
+
+        <updated>2023-09-30T07:44:17+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://miaohuaxin.github.io/gh-page/media/posts/3/WechatIMG2146-2.png" class="type:primaryImage" alt="" /></p>
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://miaohuaxin.github.io/gh-page/media/posts/3/WechatIMG2146.png" height="856" width="1532" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://miaohuaxin.github.io/gh-page/media/posts/3/responsive/WechatIMG2146-xs.png 384w ,https://miaohuaxin.github.io/gh-page/media/posts/3/responsive/WechatIMG2146-sm.png 600w ,https://miaohuaxin.github.io/gh-page/media/posts/3/responsive/WechatIMG2146-md.png 768w ,https://miaohuaxin.github.io/gh-page/media/posts/3/responsive/WechatIMG2146-lg.png 1200w ,https://miaohuaxin.github.io/gh-page/media/posts/3/responsive/WechatIMG2146-xl.png 1600w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>企业形象设计</title>
+        <author>
+            <name>Elliot.苗</name>
+        </author>
+        <link href="https://miaohuaxin.github.io/gh-page/qi-ye-xing-xiang-she-ji.html"/>
+        <id>https://miaohuaxin.github.io/gh-page/qi-ye-xing-xiang-she-ji.html</id>
+        <media:content url="https://miaohuaxin.github.io/gh-page/media/posts/2/WechatIMG2146-2.png" medium="image" />
+            <category term="企业形象设计"/>
+
+        <updated>2023-09-30T07:41:45+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://miaohuaxin.github.io/gh-page/media/posts/2/WechatIMG2146-2.png" class="type:primaryImage" alt="" /></p>
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://miaohuaxin.github.io/gh-page/media/posts/2/WechatIMG2146.png" height="856" width="1532" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://miaohuaxin.github.io/gh-page/media/posts/2/responsive/WechatIMG2146-xs.png 384w ,https://miaohuaxin.github.io/gh-page/media/posts/2/responsive/WechatIMG2146-sm.png 600w ,https://miaohuaxin.github.io/gh-page/media/posts/2/responsive/WechatIMG2146-md.png 768w ,https://miaohuaxin.github.io/gh-page/media/posts/2/responsive/WechatIMG2146-lg.png 1200w ,https://miaohuaxin.github.io/gh-page/media/posts/2/responsive/WechatIMG2146-xl.png 1600w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>生物品牌形象设计</title>
+        <author>
+            <name>Elliot.苗</name>
+        </author>
+        <link href="https://miaohuaxin.github.io/gh-page/sheng-wu-pin-pai-xing-xiang-she-ji.html"/>
+        <id>https://miaohuaxin.github.io/gh-page/sheng-wu-pin-pai-xing-xiang-she-ji.html</id>
+        <media:content url="https://miaohuaxin.github.io/gh-page/media/posts/1/WechatIMG2146.png" medium="image" />
+            <category term="所有"/>
+
+        <updated>2023-09-30T07:33:43+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://miaohuaxin.github.io/gh-page/media/posts/1/WechatIMG2146.png" class="type:primaryImage" alt="" /></p>
+                <p><img loading="lazy" src="https://www.sumaart.com/media/cn/202308/1691987116728562939.jpg" data-is-external-image="true"></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
