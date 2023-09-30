@@ -3,39 +3,42 @@
     <title>艾姆德设计</title>
     <link href="https://blog.emdcenter.com/feed.xml" rel="self" />
     <link href="https://blog.emdcenter.com" />
-    <updated>2023-09-30T15:31:59+08:00</updated>
+    <updated>2023-09-30T19:33:53+08:00</updated>
     <author>
-        <name>Elliot.苗</name>
+        <name>Elliot 苗</name>
     </author>
     <id>https://blog.emdcenter.com</id>
 
     <entry>
-        <title>您好，我是EMD Center设计师</title>
+        <title>About me</title>
         <author>
-            <name>Elliot.苗</name>
+            <name>Elliot 苗</name>
         </author>
         <link href="https://blog.emdcenter.com/nin-haowo-shi-kitty-yap-da-ma-she-ji-shi.html"/>
         <id>https://blog.emdcenter.com/nin-haowo-shi-kitty-yap-da-ma-she-ji-shi.html</id>
         <media:content url="https://blog.emdcenter.com/media/posts/11/WechatIMG2146.png" medium="image" />
 
-        <updated>2023-09-30T15:31:59+08:00</updated>
+        <updated>2023-09-30T19:33:53+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.emdcenter.com/media/posts/11/WechatIMG2146.png" alt="" />
-                    EMD center艾姆德设计的创办人 全案设计 十五年以上的经验 观点 approach 我热爱我的工作，认真了解客户的问题与需求，透过我的观察、研究和构思，以专业完成客户的委托，为企业与品牌创造出更理想的设计并协助客户成长。我相信企业的美学价值与品牌形象是影响竞争力的主要关键之一，尤其在如此竞争的大环境下，需不断强化品牌整体的视觉质感，不论是单纯的宣传品设计或是品牌主视觉规划，都需用心的精准掌控，以建构出明确的品牌性格，借此提升企业与品牌的市场竞争力。我享受与客户合作的过程，我相信品牌设计与视觉创意为企业所带来的能量，也秉持认真实在的态度与专业设计的能力来为客户服务。与我合作，相信你会看到也会感受到。 ·企业形象设计 BRAND IMAGE DESIGN ·广告文宣设计&nbsp;ADVERTISING PROPAGANDA DESIGN ·包装印刷设计&nbsp;PACKAGE PRINTING DESIGN ·网站设计制作&nbsp;WEBSITE PLANNING DEVELOPMENT ·APP UI 设计&nbsp;MOBILE APP DEVELOPMENT ·应用软件开发&nbsp;CUSTOM SOFTWARE DEVELOPMENT 常用工具
+                    嗨，我是苗华鑫。 很高兴在这里见到你。 EMD center艾姆德设计的创办人 全案设计 十五年以上的经验 观点 approach 我热爱我的工作，认真了解客户的问题与需求，透过我的观察、研究和构思，以专业完成客户的委托，为企业与品牌创造出更理想的设计并协助客户成长。我相信企业的美学价值与品牌形象是影响竞争力的主要关键之一，尤其在如此竞争的大环境下，需不断强化品牌整体的视觉质感，不论是单纯的宣传品设计或是品牌主视觉规划，都需用心的精准掌控，以建构出明确的品牌性格，借此提升企业与品牌的市场竞争力。我享受与客户合作的过程，我相信品牌设计与视觉创意为企业所带来的能量，也秉持认真实在的态度与专业设计的能力来为客户服务。与我合作，相信你会看到也会感受到。 ·企业形象设计 BRAND IMAGE DESIGN ·广告文宣设计 ADVERTISING PROPAGANDA DESIGN ·包装印刷设计 PACKAGE PRINTING DESIGN ·网站设计制作 WEBSITE PLANNING DEVELOPMENT ·APP UI 设计 MOBILE APP&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://blog.emdcenter.com/media/posts/11/WechatIMG2146.png" class="type:primaryImage" alt="" /></p>
-                
+                <div id="haiwo-shi-miao-hua-xin"><h1>嗨，我是苗华鑫。</h1>
+<h1>很高兴在这里见到你。</h1>
+</div>
+
   <p class="msg msg--highlight">
-    EMD center艾姆德设计的创办人  <br>全案设计<br>十五年以上的经验<br>
+    EMD center艾姆德设计的创办人<br>全案设计<br>十五年以上的经验
   </p>
 
-    <h1 id="good-designlessbrgreaterstarts-with-conversationlessbrgreaterand-communication">
+    <h6 id="good-designlessbrgreaterstarts-with-conversationlessbrgreaterand-communication">
       GOOD DESIGN<br>STARTS WITH CONVERSATION<br>AND COMMUNICATION
-    </h1>
+    </h6>
 
   <p>
     观点 approach
@@ -48,10 +51,13 @@
     <h2 id="fu-wu-nei-rong">
       服务内容
     </h2>
-
-  <p>
-    ·企业形象设计 BRAND IMAGE DESIGN<br><br>·广告文宣设计&nbsp;ADVERTISING PROPAGANDA DESIGN<br><br>·包装印刷设计&nbsp;PACKAGE PRINTING DESIGN<br><br>·网站设计制作&nbsp;WEBSITE PLANNING DEVELOPMENT<br><br>·APP UI 设计&nbsp;MOBILE APP DEVELOPMENT<br><br>·应用软件开发&nbsp;CUSTOM SOFTWARE DEVELOPMENT
-  </p>
+<div><p>·企业形象设计<br>   BRAND IMAGE DESIGN<br></p>
+<p>·广告文宣设计<br>   ADVERTISING PROPAGANDA DESIGN<br></p>
+<p>·包装印刷设计<br>   PACKAGE PRINTING DESIGN<br></p>
+<p>·网站设计制作<br>   WEBSITE PLANNING DEVELOPMENT<br></p>
+<p>·APP UI 设计<br>   MOBILE APP DEVELOPMENT<br></p>
+<p>·应用软件开发<br>   CUSTOM SOFTWARE DEVELOPMENT<br></p>
+</div>
 
   <p>
     
@@ -65,13 +71,17 @@
       <img loading="lazy" src="https://blog.emdcenter.com/media/posts/11/WechatIMG2134.png" height="364" width="871" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://blog.emdcenter.com/media/posts/11/responsive/WechatIMG2134-xs.png 384w ,https://blog.emdcenter.com/media/posts/11/responsive/WechatIMG2134-sm.png 600w ,https://blog.emdcenter.com/media/posts/11/responsive/WechatIMG2134-md.png 768w ,https://blog.emdcenter.com/media/posts/11/responsive/WechatIMG2134-lg.png 1200w ,https://blog.emdcenter.com/media/posts/11/responsive/WechatIMG2134-xl.png 1600w">
       
     </figure>
+
+  <p>
+    
+  </p>
             ]]>
         </content>
     </entry>
     <entry>
         <title>京星餐饮事业群官网设计</title>
         <author>
-            <name>Elliot.苗</name>
+            <name>Elliot 苗</name>
         </author>
         <link href="https://blog.emdcenter.com/jing-xing-can-yin-shi-ye-qun-guan-wang-she-ji.html"/>
         <id>https://blog.emdcenter.com/jing-xing-can-yin-shi-ye-qun-guan-wang-she-ji.html</id>
@@ -123,7 +133,7 @@
     <entry>
         <title>缔造高品质数字化体验</title>
         <author>
-            <name>Elliot.苗</name>
+            <name>Elliot 苗</name>
         </author>
         <link href="https://blog.emdcenter.com/da-lian-ai-mu-de-xin-xi-ke-ji.html"/>
         <id>https://blog.emdcenter.com/da-lian-ai-mu-de-xin-xi-ke-ji.html</id>
@@ -179,7 +189,7 @@
     <entry>
         <title>2023年艾姆德设计中秋、国庆放假公告</title>
         <author>
-            <name>Elliot.苗</name>
+            <name>Elliot 苗</name>
         </author>
         <link href="https://blog.emdcenter.com/2023nian-su-ma-she-ji-zhong-qiuguo-qing-fang-jia-gong-gao.html"/>
         <id>https://blog.emdcenter.com/2023nian-su-ma-she-ji-zhong-qiuguo-qing-fang-jia-gong-gao.html</id>
@@ -207,7 +217,7 @@
     <entry>
         <title>皇后洗衣设备有限公司官网设计</title>
         <author>
-            <name>Elliot.苗</name>
+            <name>Elliot 苗</name>
         </author>
         <link href="https://blog.emdcenter.com/ren-ji-jiao-hu.html"/>
         <id>https://blog.emdcenter.com/ren-ji-jiao-hu.html</id>
