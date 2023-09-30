@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://www.emdcenter.com/sitemap.xml
+Sitemap: https://blog.emdcenter.com/sitemap.xml
