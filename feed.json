@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://blog.emdcenter.com/jing-xing-can-yin-shi-ye-qun-guan-wang-she-ji.html",
+            "url": "https://blog.emdcenter.com/jing-xing-can-yin-shi-ye-qun-guan-wang-she-ji.html",
+            "title": "京星餐饮事业群官网设计",
+            "summary": "以团圆欢聚为主轴，将菜色端满上桌的概念，呈现丰富与多元，并透过餐桌底色红色来增添喜气与美味感外，更加强京星餐饮的企业色，营造与呼应品牌的氛围，加深消费者对京星餐饮的印象与品牌连接。首页利用大图轮播方式增添大气的气势感，整体构架规划与视觉设计简洁明了。",
+            "content_html": "\n  <p class=\"msg msg--info\">\n    以团圆欢聚为主轴，将菜色端满上桌的概念，呈现丰富与多元，并透过餐桌底色红色来增添喜气与美味感外，更加强京星餐饮的企业色，营造与呼应品牌的氛围，加深消费者对京星餐饮的印象与品牌连接。首页利用大图轮播方式增添大气的气势感，整体构架规划与视觉设计简洁明了。\n  </p>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://blog.emdcenter.com/media/posts/10/gallery/05b21d719619606c8f2ea5e5bc1c52c9.png\" data-size=\"1000x6146\">\n        <img loading=\"lazy\" src=\"https://blog.emdcenter.com/media/posts/10/gallery/05b21d719619606c8f2ea5e5bc1c52c9-thumbnail.png\" height=\"4720\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://blog.emdcenter.com/media/posts/10/gallery/84b969f55b6e72a8e40afaca0538238e.png\" data-size=\"1000x2509\">\n        <img loading=\"lazy\" src=\"https://blog.emdcenter.com/media/posts/10/gallery/84b969f55b6e72a8e40afaca0538238e-thumbnail.png\" height=\"1927\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://blog.emdcenter.com/media/posts/10/gallery/26dda71bc062ace30055ab2c368c07f8.png\" data-size=\"1000x1867\">\n        <img loading=\"lazy\" src=\"https://blog.emdcenter.com/media/posts/10/gallery/26dda71bc062ace30055ab2c368c07f8-thumbnail.png\" height=\"1434\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://blog.emdcenter.com/media/posts/10/gallery/fbdd45f8d455a23995f36be4056d981f.png\" data-size=\"1000x490\">\n        <img loading=\"lazy\" src=\"https://blog.emdcenter.com/media/posts/10/gallery/fbdd45f8d455a23995f36be4056d981f-thumbnail.png\" height=\"376\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
+            "image": "https://blog.emdcenter.com/media/posts/10/ba3028cec9d8e3033cd0b45831ed868b.jpeg",
+            "author": {
+                "name": "Elliot.苗"
+            },
+            "tags": [
+                   "网站设计",
+                   "所有"
+            ],
+            "date_published": "2023-09-30T12:48:41+08:00",
+            "date_modified": "2023-09-30T13:00:18+08:00"
+        },
+        {
             "id": "https://blog.emdcenter.com/da-lian-ai-mu-de-xin-xi-ke-ji.html",
             "url": "https://blog.emdcenter.com/da-lian-ai-mu-de-xin-xi-ke-ji.html",
             "title": "大连艾姆德信息科技",

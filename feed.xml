@@ -3,12 +3,66 @@
     <title>艾姆德设计</title>
     <link href="https://blog.emdcenter.com/feed.xml" rel="self" />
     <link href="https://blog.emdcenter.com" />
-    <updated>2023-09-30T12:40:39+08:00</updated>
+    <updated>2023-09-30T13:00:18+08:00</updated>
     <author>
         <name>Elliot.苗</name>
     </author>
     <id>https://blog.emdcenter.com</id>
 
+    <entry>
+        <title>京星餐饮事业群官网设计</title>
+        <author>
+            <name>Elliot.苗</name>
+        </author>
+        <link href="https://blog.emdcenter.com/jing-xing-can-yin-shi-ye-qun-guan-wang-she-ji.html"/>
+        <id>https://blog.emdcenter.com/jing-xing-can-yin-shi-ye-qun-guan-wang-she-ji.html</id>
+        <media:content url="https://blog.emdcenter.com/media/posts/10/ba3028cec9d8e3033cd0b45831ed868b.jpeg" medium="image" />
+            <category term="网站设计"/>
+            <category term="所有"/>
+
+        <updated>2023-09-30T13:00:18+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.emdcenter.com/media/posts/10/ba3028cec9d8e3033cd0b45831ed868b.jpeg" alt="" />
+                    以团圆欢聚为主轴，将菜色端满上桌的概念，呈现丰富与多元，并透过餐桌底色红色来增添喜气与美味感外，更加强京星餐饮的企业色，营造与呼应品牌的氛围，加深消费者对京星餐饮的印象与品牌连接。首页利用大图轮播方式增添大气的气势感，整体构架规划与视觉设计简洁明了。
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.emdcenter.com/media/posts/10/ba3028cec9d8e3033cd0b45831ed868b.jpeg" class="type:primaryImage" alt="" /></p>
+                
+  <p class="msg msg--info">
+    以团圆欢聚为主轴，将菜色端满上桌的概念，呈现丰富与多元，并透过餐桌底色红色来增添喜气与美味感外，更加强京星餐饮的企业色，营造与呼应品牌的氛围，加深消费者对京星餐饮的印象与品牌连接。首页利用大图轮播方式增添大气的气势感，整体构架规划与视觉设计简洁明了。
+  </p>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://blog.emdcenter.com/media/posts/10/gallery/05b21d719619606c8f2ea5e5bc1c52c9.png" data-size="1000x6146">
+        <img loading="lazy" src="https://blog.emdcenter.com/media/posts/10/gallery/05b21d719619606c8f2ea5e5bc1c52c9-thumbnail.png" height="4720" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://blog.emdcenter.com/media/posts/10/gallery/84b969f55b6e72a8e40afaca0538238e.png" data-size="1000x2509">
+        <img loading="lazy" src="https://blog.emdcenter.com/media/posts/10/gallery/84b969f55b6e72a8e40afaca0538238e-thumbnail.png" height="1927" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://blog.emdcenter.com/media/posts/10/gallery/26dda71bc062ace30055ab2c368c07f8.png" data-size="1000x1867">
+        <img loading="lazy" src="https://blog.emdcenter.com/media/posts/10/gallery/26dda71bc062ace30055ab2c368c07f8-thumbnail.png" height="1434" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://blog.emdcenter.com/media/posts/10/gallery/fbdd45f8d455a23995f36be4056d981f.png" data-size="1000x490">
+        <img loading="lazy" src="https://blog.emdcenter.com/media/posts/10/gallery/fbdd45f8d455a23995f36be4056d981f-thumbnail.png" height="376" width="768" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>大连艾姆德信息科技</title>
         <author>
