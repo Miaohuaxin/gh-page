@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://blog.emdcenter.com/bao-zhuang-liu-cheng-zhi-hui-ping-tai-ui.html",
+            "url": "https://blog.emdcenter.com/bao-zhuang-liu-cheng-zhi-hui-ping-tai-ui.html",
+            "title": "包装流程智慧平台UI",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"file:///Users/ellitomiu/Documents/Publii/sites/ai-mu-de-she-ji/input/media/posts/temp/15-01281-2019-10.jpg\" height=\"2140\" width=\"3500\" alt=\"\"  sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"file:///Users/ellitomiu/Documents/Publii/sites/ai-mu-de-she-ji/input/media/posts/temp/responsive/15-01281-2019-10-xs.webp 384w ,file:///Users/ellitomiu/Documents/Publii/sites/ai-mu-de-she-ji/input/media/posts/temp/responsive/15-01281-2019-10-sm.webp 600w ,file:///Users/ellitomiu/Documents/Publii/sites/ai-mu-de-she-ji/input/media/posts/temp/responsive/15-01281-2019-10-md.webp 768w ,file:///Users/ellitomiu/Documents/Publii/sites/ai-mu-de-she-ji/input/media/posts/temp/responsive/15-01281-2019-10-lg.webp 1200w ,file:///Users/ellitomiu/Documents/Publii/sites/ai-mu-de-she-ji/input/media/posts/temp/responsive/15-01281-2019-10-xl.webp 1600w\">\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"file:///Users/ellitomiu/Documents/Publii/sites/ai-mu-de-she-ji/input/media/posts/temp/15-01281-2019-11.jpg\" height=\"2140\" width=\"3500\" alt=\"\"  sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"file:///Users/ellitomiu/Documents/Publii/sites/ai-mu-de-she-ji/input/media/posts/temp/responsive/15-01281-2019-11-xs.webp 384w ,file:///Users/ellitomiu/Documents/Publii/sites/ai-mu-de-she-ji/input/media/posts/temp/responsive/15-01281-2019-11-sm.webp 600w ,file:///Users/ellitomiu/Documents/Publii/sites/ai-mu-de-she-ji/input/media/posts/temp/responsive/15-01281-2019-11-md.webp 768w ,file:///Users/ellitomiu/Documents/Publii/sites/ai-mu-de-she-ji/input/media/posts/temp/responsive/15-01281-2019-11-lg.webp 1200w ,file:///Users/ellitomiu/Documents/Publii/sites/ai-mu-de-she-ji/input/media/posts/temp/responsive/15-01281-2019-11-xl.webp 1600w\">\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"file:///Users/ellitomiu/Documents/Publii/sites/ai-mu-de-she-ji/input/media/posts/temp/15-01281-2019-12.jpg\" height=\"2140\" width=\"3500\" alt=\"\"  sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"file:///Users/ellitomiu/Documents/Publii/sites/ai-mu-de-she-ji/input/media/posts/temp/responsive/15-01281-2019-12-xs.webp 384w ,file:///Users/ellitomiu/Documents/Publii/sites/ai-mu-de-she-ji/input/media/posts/temp/responsive/15-01281-2019-12-sm.webp 600w ,file:///Users/ellitomiu/Documents/Publii/sites/ai-mu-de-she-ji/input/media/posts/temp/responsive/15-01281-2019-12-md.webp 768w ,file:///Users/ellitomiu/Documents/Publii/sites/ai-mu-de-she-ji/input/media/posts/temp/responsive/15-01281-2019-12-lg.webp 1200w ,file:///Users/ellitomiu/Documents/Publii/sites/ai-mu-de-she-ji/input/media/posts/temp/responsive/15-01281-2019-12-xl.webp 1600w\">\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"file:///Users/ellitomiu/Documents/Publii/sites/ai-mu-de-she-ji/input/media/posts/temp/15-01281-2019-9.jpg\" height=\"2140\" width=\"3500\" alt=\"\"  sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"file:///Users/ellitomiu/Documents/Publii/sites/ai-mu-de-she-ji/input/media/posts/temp/responsive/15-01281-2019-9-xs.webp 384w ,file:///Users/ellitomiu/Documents/Publii/sites/ai-mu-de-she-ji/input/media/posts/temp/responsive/15-01281-2019-9-sm.webp 600w ,file:///Users/ellitomiu/Documents/Publii/sites/ai-mu-de-she-ji/input/media/posts/temp/responsive/15-01281-2019-9-md.webp 768w ,file:///Users/ellitomiu/Documents/Publii/sites/ai-mu-de-she-ji/input/media/posts/temp/responsive/15-01281-2019-9-lg.webp 1200w ,file:///Users/ellitomiu/Documents/Publii/sites/ai-mu-de-she-ji/input/media/posts/temp/responsive/15-01281-2019-9-xl.webp 1600w\">\n      \n    </figure>",
+            "author": {
+                "name": "Elliot 苗"
+            },
+            "tags": [
+                   "应用软件"
+            ],
+            "date_published": "2023-11-06T12:08:00+08:00",
+            "date_modified": "2023-11-06T12:09:25+08:00"
+        },
+        {
             "id": "https://blog.emdcenter.com/nin-haowo-shi-kitty-yap-da-ma-she-ji-shi.html",
             "url": "https://blog.emdcenter.com/nin-haowo-shi-kitty-yap-da-ma-she-ji-shi.html",
             "title": "About me",
@@ -145,21 +159,6 @@
             ],
             "date_published": "2021-12-01T12:48:00+08:00",
             "date_modified": "2023-10-06T17:32:19+08:00"
-        },
-        {
-            "id": "https://blog.emdcenter.com/su-liao-xiang-xiao-guo-cheng-kong-zhi-xi-tong.html",
-            "url": "https://blog.emdcenter.com/su-liao-xiang-xiao-guo-cheng-kong-zhi-xi-tong.html",
-            "title": "塑料橡胶过程控制系统",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://blog.emdcenter.com/media/posts/16/21881696549363_.pic.jpg\" height=\"1293\" width=\"1947\" alt=\"\"  sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://blog.emdcenter.com/media/posts/16/responsive/21881696549363_.pic-xs.webp 384w ,https://blog.emdcenter.com/media/posts/16/responsive/21881696549363_.pic-sm.webp 600w ,https://blog.emdcenter.com/media/posts/16/responsive/21881696549363_.pic-md.webp 768w ,https://blog.emdcenter.com/media/posts/16/responsive/21881696549363_.pic-lg.webp 1200w ,https://blog.emdcenter.com/media/posts/16/responsive/21881696549363_.pic-xl.webp 1600w\">\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://blog.emdcenter.com/media/posts/16/21891696549363_.pic.jpg\" height=\"1097\" width=\"1918\" alt=\"\"  sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://blog.emdcenter.com/media/posts/16/responsive/21891696549363_.pic-xs.webp 384w ,https://blog.emdcenter.com/media/posts/16/responsive/21891696549363_.pic-sm.webp 600w ,https://blog.emdcenter.com/media/posts/16/responsive/21891696549363_.pic-md.webp 768w ,https://blog.emdcenter.com/media/posts/16/responsive/21891696549363_.pic-lg.webp 1200w ,https://blog.emdcenter.com/media/posts/16/responsive/21891696549363_.pic-xl.webp 1600w\">\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://blog.emdcenter.com/media/posts/16/21901696549363_.pic.jpg\" height=\"1078\" width=\"1920\" alt=\"\"  sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://blog.emdcenter.com/media/posts/16/responsive/21901696549363_.pic-xs.webp 384w ,https://blog.emdcenter.com/media/posts/16/responsive/21901696549363_.pic-sm.webp 600w ,https://blog.emdcenter.com/media/posts/16/responsive/21901696549363_.pic-md.webp 768w ,https://blog.emdcenter.com/media/posts/16/responsive/21901696549363_.pic-lg.webp 1200w ,https://blog.emdcenter.com/media/posts/16/responsive/21901696549363_.pic-xl.webp 1600w\">\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://blog.emdcenter.com/media/posts/16/21911696549363_.pic.jpg\" height=\"1098\" width=\"1917\" alt=\"\"  sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://blog.emdcenter.com/media/posts/16/responsive/21911696549363_.pic-xs.webp 384w ,https://blog.emdcenter.com/media/posts/16/responsive/21911696549363_.pic-sm.webp 600w ,https://blog.emdcenter.com/media/posts/16/responsive/21911696549363_.pic-md.webp 768w ,https://blog.emdcenter.com/media/posts/16/responsive/21911696549363_.pic-lg.webp 1200w ,https://blog.emdcenter.com/media/posts/16/responsive/21911696549363_.pic-xl.webp 1600w\">\n      \n    </figure>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"\" height=\"\" width=\"\" alt=\"\"  data-is-external-image=\"true\">\n      \n    </figure>",
-            "image": "https://blog.emdcenter.com/media/posts/16/21921696549363_.pic.jpg",
-            "author": {
-                "name": "Elliot 苗"
-            },
-            "tags": [
-                   "分享"
-            ],
-            "date_published": "2021-09-06T07:44:00+08:00",
-            "date_modified": "2023-10-06T08:11:46+08:00"
         }
     ]
 }
