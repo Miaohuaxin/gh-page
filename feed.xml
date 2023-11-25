@@ -3,12 +3,69 @@
     <title>艾姆德设计</title>
     <link href="https://blog.emdcenter.com/feed.xml" rel="self" />
     <link href="https://blog.emdcenter.com" />
-    <updated>2023-11-15T14:46:57+08:00</updated>
+    <updated>2023-11-25T23:08:34+08:00</updated>
     <author>
         <name>Elliot 苗</name>
     </author>
     <id>https://blog.emdcenter.com</id>
 
+    <entry>
+        <title>公共充电桩系统设计</title>
+        <author>
+            <name>Elliot 苗</name>
+        </author>
+        <link href="https://blog.emdcenter.com/gong-gong-chong-dian-zhuang-xi-tong-she-ji.html"/>
+        <id>https://blog.emdcenter.com/gong-gong-chong-dian-zhuang-xi-tong-she-ji.html</id>
+        <media:content url="https://blog.emdcenter.com/media/posts/22/_f6393417-fbab-48fa-a297-0118d3d544a3.jpeg" medium="image" />
+            <category term="应用软件"/>
+
+        <updated>2023-11-25T23:08:34+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.emdcenter.com/media/posts/22/_f6393417-fbab-48fa-a297-0118d3d544a3.jpeg" alt="" />
+                    公共充电桩UI设计
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.emdcenter.com/media/posts/22/_f6393417-fbab-48fa-a297-0118d3d544a3.jpeg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    公共充电桩UI设计
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://blog.emdcenter.com/media/posts/22/iPad-Pro-12.92x.png" height="1000" width="1693" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://blog.emdcenter.com/media/posts/22/responsive/iPad-Pro-12.92x-xs.webp 384w ,https://blog.emdcenter.com/media/posts/22/responsive/iPad-Pro-12.92x-sm.webp 600w ,https://blog.emdcenter.com/media/posts/22/responsive/iPad-Pro-12.92x-md.webp 768w ,https://blog.emdcenter.com/media/posts/22/responsive/iPad-Pro-12.92x-lg.webp 1200w ,https://blog.emdcenter.com/media/posts/22/responsive/iPad-Pro-12.92x-xl.webp 1600w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://blog.emdcenter.com/media/posts/22/iPad-Pro-12.9Bei-Fen2x.png" height="1000" width="1693" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://blog.emdcenter.com/media/posts/22/responsive/iPad-Pro-12.9Bei-Fen2x-xs.webp 384w ,https://blog.emdcenter.com/media/posts/22/responsive/iPad-Pro-12.9Bei-Fen2x-sm.webp 600w ,https://blog.emdcenter.com/media/posts/22/responsive/iPad-Pro-12.9Bei-Fen2x-md.webp 768w ,https://blog.emdcenter.com/media/posts/22/responsive/iPad-Pro-12.9Bei-Fen2x-lg.webp 1200w ,https://blog.emdcenter.com/media/posts/22/responsive/iPad-Pro-12.9Bei-Fen2x-xl.webp 1600w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://blog.emdcenter.com/media/posts/22/iPad-Pro-12.9Bei-Fen-42x.png" height="1000" width="1693" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://blog.emdcenter.com/media/posts/22/responsive/iPad-Pro-12.9Bei-Fen-42x-xs.webp 384w ,https://blog.emdcenter.com/media/posts/22/responsive/iPad-Pro-12.9Bei-Fen-42x-sm.webp 600w ,https://blog.emdcenter.com/media/posts/22/responsive/iPad-Pro-12.9Bei-Fen-42x-md.webp 768w ,https://blog.emdcenter.com/media/posts/22/responsive/iPad-Pro-12.9Bei-Fen-42x-lg.webp 1200w ,https://blog.emdcenter.com/media/posts/22/responsive/iPad-Pro-12.9Bei-Fen-42x-xl.webp 1600w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://blog.emdcenter.com/media/posts/22/iPad-Pro-12.9Bei-Fen-52x.png" height="1000" width="1693" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://blog.emdcenter.com/media/posts/22/responsive/iPad-Pro-12.9Bei-Fen-52x-xs.webp 384w ,https://blog.emdcenter.com/media/posts/22/responsive/iPad-Pro-12.9Bei-Fen-52x-sm.webp 600w ,https://blog.emdcenter.com/media/posts/22/responsive/iPad-Pro-12.9Bei-Fen-52x-md.webp 768w ,https://blog.emdcenter.com/media/posts/22/responsive/iPad-Pro-12.9Bei-Fen-52x-lg.webp 1200w ,https://blog.emdcenter.com/media/posts/22/responsive/iPad-Pro-12.9Bei-Fen-52x-xl.webp 1600w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://blog.emdcenter.com/media/posts/22/iPad-Pro-12.9Bei-Fen-62x.png" height="1000" width="1693" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://blog.emdcenter.com/media/posts/22/responsive/iPad-Pro-12.9Bei-Fen-62x-xs.webp 384w ,https://blog.emdcenter.com/media/posts/22/responsive/iPad-Pro-12.9Bei-Fen-62x-sm.webp 600w ,https://blog.emdcenter.com/media/posts/22/responsive/iPad-Pro-12.9Bei-Fen-62x-md.webp 768w ,https://blog.emdcenter.com/media/posts/22/responsive/iPad-Pro-12.9Bei-Fen-62x-lg.webp 1200w ,https://blog.emdcenter.com/media/posts/22/responsive/iPad-Pro-12.9Bei-Fen-62x-xl.webp 1600w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://blog.emdcenter.com/media/posts/22/dd0192182039105.65279311d4dc3.jpg" height="3259" width="3840" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://blog.emdcenter.com/media/posts/22/responsive/dd0192182039105.65279311d4dc3-xs.webp 384w ,https://blog.emdcenter.com/media/posts/22/responsive/dd0192182039105.65279311d4dc3-sm.webp 600w ,https://blog.emdcenter.com/media/posts/22/responsive/dd0192182039105.65279311d4dc3-md.webp 768w ,https://blog.emdcenter.com/media/posts/22/responsive/dd0192182039105.65279311d4dc3-lg.webp 1200w ,https://blog.emdcenter.com/media/posts/22/responsive/dd0192182039105.65279311d4dc3-xl.webp 1600w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>后台管理网页UI</title>
         <author>
@@ -500,68 +557,6 @@
 
     <figure class="post__image post__image--center">
       <img loading="lazy" src="https://blog.emdcenter.com/media/posts/14/21811696125804_.pic.jpg" height="678" width="1000" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://blog.emdcenter.com/media/posts/14/responsive/21811696125804_.pic-xs.webp 384w ,https://blog.emdcenter.com/media/posts/14/responsive/21811696125804_.pic-sm.webp 600w ,https://blog.emdcenter.com/media/posts/14/responsive/21811696125804_.pic-md.webp 768w ,https://blog.emdcenter.com/media/posts/14/responsive/21811696125804_.pic-lg.webp 1200w ,https://blog.emdcenter.com/media/posts/14/responsive/21811696125804_.pic-xl.webp 1600w">
-      
-    </figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>RESTORE.ME Packaging包 装 设 计 </title>
-        <author>
-            <name>Elliot 苗</name>
-        </author>
-        <link href="https://blog.emdcenter.com/restoreme-packagingbao-zhuang-she-ji.html"/>
-        <id>https://blog.emdcenter.com/restoreme-packagingbao-zhuang-she-ji.html</id>
-        <media:content url="https://blog.emdcenter.com/media/posts/12/WechatIMG2159.png" medium="image" />
-            <category term="包装设计"/>
-
-        <updated>2023-10-06T09:59:47+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.emdcenter.com/media/posts/12/WechatIMG2159.png" alt="" />
-                    RESTORE.ME是一款由发酵的诺丽果酵素成分制成。它有助调节肠道益群和健康，同时也帮助提升身体活力以及免疫力的保健产品。所以整体包装的视觉重心都落在这个有特色的图像，并能引起消费者的注意和对此产品留下深刻印象。 ​ 设计概念 ：整体的设计方向是以简约并且有时尚感。于是设计出非常有特色的图像来表达产品的核心功能性，如：“R字母”+ “肠道标志” 并联起来成为一个有代表性而且有艺术感的图像。 配色慨念：采用诺丽果的天然果实的绿黄色。因为想呈现出比较时尚感，就混搭tiffany blue以渐变色方式调色。
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.emdcenter.com/media/posts/12/WechatIMG2159.png" class="type:primaryImage" alt="" /></p>
-                
-  <p>
-    RESTORE.ME是一款由发酵的诺丽果酵素成分制成。它有助调节肠道益群和健康，同时也帮助提升身体活力以及免疫力的保健产品。所以整体包装的视觉重心都落在这个有特色的图像，并能引起消费者的注意和对此产品留下深刻印象。<br><br>​<br><br>设计概念 ：整体的设计方向是以简约并且有时尚感。于是设计出非常有特色的图像来表达产品的核心功能性，如：“R字母”+ “肠道标志” 并联起来成为一个有代表性而且有艺术感的图像。<br><br> <br><br>配色慨念：采用诺丽果的天然果实的绿黄色。因为想呈现出比较时尚感，就混搭tiffany blue以渐变色方式调色。
-  </p>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://blog.emdcenter.com/media/posts/12/21521696076410_.pic.jpg" height="598" width="1960" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://blog.emdcenter.com/media/posts/12/responsive/21521696076410_.pic-xs.webp 384w ,https://blog.emdcenter.com/media/posts/12/responsive/21521696076410_.pic-sm.webp 600w ,https://blog.emdcenter.com/media/posts/12/responsive/21521696076410_.pic-md.webp 768w ,https://blog.emdcenter.com/media/posts/12/responsive/21521696076410_.pic-lg.webp 1200w ,https://blog.emdcenter.com/media/posts/12/responsive/21521696076410_.pic-xl.webp 1600w">
-      
-    </figure>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://blog.emdcenter.com/media/posts/12/21531696076411_.pic.jpg" height="1275" width="1889" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://blog.emdcenter.com/media/posts/12/responsive/21531696076411_.pic-xs.webp 384w ,https://blog.emdcenter.com/media/posts/12/responsive/21531696076411_.pic-sm.webp 600w ,https://blog.emdcenter.com/media/posts/12/responsive/21531696076411_.pic-md.webp 768w ,https://blog.emdcenter.com/media/posts/12/responsive/21531696076411_.pic-lg.webp 1200w ,https://blog.emdcenter.com/media/posts/12/responsive/21531696076411_.pic-xl.webp 1600w">
-      
-    </figure>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://blog.emdcenter.com/media/posts/12/21541696076411_.pic_hd.jpg" height="1578" width="2338" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://blog.emdcenter.com/media/posts/12/responsive/21541696076411_.pic_hd-xs.webp 384w ,https://blog.emdcenter.com/media/posts/12/responsive/21541696076411_.pic_hd-sm.webp 600w ,https://blog.emdcenter.com/media/posts/12/responsive/21541696076411_.pic_hd-md.webp 768w ,https://blog.emdcenter.com/media/posts/12/responsive/21541696076411_.pic_hd-lg.webp 1200w ,https://blog.emdcenter.com/media/posts/12/responsive/21541696076411_.pic_hd-xl.webp 1600w">
-      
-    </figure>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://blog.emdcenter.com/media/posts/12/21551696076411_.pic.jpg" height="1578" width="2338" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://blog.emdcenter.com/media/posts/12/responsive/21551696076411_.pic-xs.webp 384w ,https://blog.emdcenter.com/media/posts/12/responsive/21551696076411_.pic-sm.webp 600w ,https://blog.emdcenter.com/media/posts/12/responsive/21551696076411_.pic-md.webp 768w ,https://blog.emdcenter.com/media/posts/12/responsive/21551696076411_.pic-lg.webp 1200w ,https://blog.emdcenter.com/media/posts/12/responsive/21551696076411_.pic-xl.webp 1600w">
-      
-    </figure>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://blog.emdcenter.com/media/posts/12/21561696076411_.pic.jpg" height="992" width="2334" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://blog.emdcenter.com/media/posts/12/responsive/21561696076411_.pic-xs.webp 384w ,https://blog.emdcenter.com/media/posts/12/responsive/21561696076411_.pic-sm.webp 600w ,https://blog.emdcenter.com/media/posts/12/responsive/21561696076411_.pic-md.webp 768w ,https://blog.emdcenter.com/media/posts/12/responsive/21561696076411_.pic-lg.webp 1200w ,https://blog.emdcenter.com/media/posts/12/responsive/21561696076411_.pic-xl.webp 1600w">
-      
-    </figure>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://blog.emdcenter.com/media/posts/12/21571696076411_.pic_hd.jpg" height="1578" width="2338" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://blog.emdcenter.com/media/posts/12/responsive/21571696076411_.pic_hd-xs.webp 384w ,https://blog.emdcenter.com/media/posts/12/responsive/21571696076411_.pic_hd-sm.webp 600w ,https://blog.emdcenter.com/media/posts/12/responsive/21571696076411_.pic_hd-md.webp 768w ,https://blog.emdcenter.com/media/posts/12/responsive/21571696076411_.pic_hd-lg.webp 1200w ,https://blog.emdcenter.com/media/posts/12/responsive/21571696076411_.pic_hd-xl.webp 1600w">
-      
-    </figure>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://blog.emdcenter.com/media/posts/12/21581696076411_.pic.jpg" height="1578" width="2338" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://blog.emdcenter.com/media/posts/12/responsive/21581696076411_.pic-xs.webp 384w ,https://blog.emdcenter.com/media/posts/12/responsive/21581696076411_.pic-sm.webp 600w ,https://blog.emdcenter.com/media/posts/12/responsive/21581696076411_.pic-md.webp 768w ,https://blog.emdcenter.com/media/posts/12/responsive/21581696076411_.pic-lg.webp 1200w ,https://blog.emdcenter.com/media/posts/12/responsive/21581696076411_.pic-xl.webp 1600w">
       
     </figure>
             ]]>
