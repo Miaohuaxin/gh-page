@@ -31,7 +31,7 @@
             "title": "后台管理网页UI",
             "summary": "财务后台",
             "content_html": "\n  <p>\n    财务后台\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://blog.emdcenter.com/media/posts/21/Studio-Display0.5x.jpg\" height=\"739\" width=\"1230\" alt=\"\"  sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://blog.emdcenter.com/media/posts/21/responsive/Studio-Display0.5x-xs.webp 384w ,https://blog.emdcenter.com/media/posts/21/responsive/Studio-Display0.5x-sm.webp 600w ,https://blog.emdcenter.com/media/posts/21/responsive/Studio-Display0.5x-md.webp 768w ,https://blog.emdcenter.com/media/posts/21/responsive/Studio-Display0.5x-lg.webp 1200w ,https://blog.emdcenter.com/media/posts/21/responsive/Studio-Display0.5x-xl.webp 1600w\">\n      \n    </figure>",
-            "image": "https://blog.emdcenter.com/media/posts/21/Studio-Display1x-2.jpg",
+            "image": "https://blog.emdcenter.com/media/posts/21/_19a7ea16-ce14-462c-b23e-2bbf987239cd.jpeg",
             "author": {
                 "name": "Elliot 苗"
             },
@@ -39,7 +39,7 @@
                    "应用软件"
             ],
             "date_published": "2023-11-15T14:43:17+08:00",
-            "date_modified": "2023-11-15T14:46:57+08:00"
+            "date_modified": "2023-11-26T09:00:48+08:00"
         },
         {
             "id": "https://blog.emdcenter.com/lu-se-neng-yuan-jia-mi-qu-kuai-lian-wang-zhan-she-ji.html",
