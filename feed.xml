@@ -3,7 +3,7 @@
     <title>艾姆德设计</title>
     <link href="https://blog.emdcenter.com/feed.xml" rel="self" />
     <link href="https://blog.emdcenter.com" />
-    <updated>2023-11-26T09:05:04+08:00</updated>
+    <updated>2023-12-15T13:54:30+08:00</updated>
     <author>
         <name>Elliot 苗</name>
     </author>
@@ -76,11 +76,11 @@
         <media:content url="https://blog.emdcenter.com/media/posts/21/WX20231126-0903542x.png" medium="image" />
             <category term="应用软件"/>
 
-        <updated>2023-11-26T09:04:07+08:00</updated>
+        <updated>2023-12-15T13:54:30+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.emdcenter.com/media/posts/21/WX20231126-0903542x.png" alt="" />
-                    财务后台
+                    财务后台 设备管理后台
                 ]]>
             </summary>
         <content type="html">
@@ -93,6 +93,25 @@
 
     <figure class="post__image post__image--center">
       <img loading="lazy" src="https://blog.emdcenter.com/media/posts/21/Studio-Display0.5x.jpg" height="739" width="1230" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://blog.emdcenter.com/media/posts/21/responsive/Studio-Display0.5x-xs.webp 384w ,https://blog.emdcenter.com/media/posts/21/responsive/Studio-Display0.5x-sm.webp 600w ,https://blog.emdcenter.com/media/posts/21/responsive/Studio-Display0.5x-md.webp 768w ,https://blog.emdcenter.com/media/posts/21/responsive/Studio-Display0.5x-lg.webp 1200w ,https://blog.emdcenter.com/media/posts/21/responsive/Studio-Display0.5x-xl.webp 1600w">
+      
+    </figure>
+
+  <p>
+    设备管理后台
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://blog.emdcenter.com/media/posts/21/Web-1366-1-2.jpg" height="1068" width="1920" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://blog.emdcenter.com/media/posts/21/responsive/Web-1366-1-2-xs.webp 384w ,https://blog.emdcenter.com/media/posts/21/responsive/Web-1366-1-2-sm.webp 600w ,https://blog.emdcenter.com/media/posts/21/responsive/Web-1366-1-2-md.webp 768w ,https://blog.emdcenter.com/media/posts/21/responsive/Web-1366-1-2-lg.webp 1200w ,https://blog.emdcenter.com/media/posts/21/responsive/Web-1366-1-2-xl.webp 1600w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://blog.emdcenter.com/media/posts/21/Web-1366-2.jpg" height="1068" width="1920" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://blog.emdcenter.com/media/posts/21/responsive/Web-1366-2-xs.webp 384w ,https://blog.emdcenter.com/media/posts/21/responsive/Web-1366-2-sm.webp 600w ,https://blog.emdcenter.com/media/posts/21/responsive/Web-1366-2-md.webp 768w ,https://blog.emdcenter.com/media/posts/21/responsive/Web-1366-2-lg.webp 1200w ,https://blog.emdcenter.com/media/posts/21/responsive/Web-1366-2-xl.webp 1600w">
+      
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://blog.emdcenter.com/media/posts/21/Web-1366-3.jpg" height="1068" width="1920" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://blog.emdcenter.com/media/posts/21/responsive/Web-1366-3-xs.webp 384w ,https://blog.emdcenter.com/media/posts/21/responsive/Web-1366-3-sm.webp 600w ,https://blog.emdcenter.com/media/posts/21/responsive/Web-1366-3-md.webp 768w ,https://blog.emdcenter.com/media/posts/21/responsive/Web-1366-3-lg.webp 1200w ,https://blog.emdcenter.com/media/posts/21/responsive/Web-1366-3-xl.webp 1600w">
       
     </figure>
             ]]>
